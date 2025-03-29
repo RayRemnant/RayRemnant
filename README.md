@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate about building scalable and user-friendly applications with React, Next.js, and TypeScript.<br>My main stack includes:</p>
+Passionate about building scalable and user-friendly applications with **React**, **Next.js**, and **TypeScript**.<br>My main stack includes:
 
 ###
 
