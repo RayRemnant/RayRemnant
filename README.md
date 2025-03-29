@@ -2,7 +2,7 @@
 
 ###
 
-Passionate about building scalable and user-friendly applications with **React**, **Next.js**, and **TypeScript**.<br>My main stack includes:
+<p align="left">Passionate about building scalable and user-friendly applications with React, Next.js, and TypeScript.<br>My main stack includes:</p>
 
 ###
 
@@ -64,14 +64,14 @@ Passionate about building scalable and user-friendly applications with **React**
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=apollo" height="40" alt="apollographql logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="4" />
